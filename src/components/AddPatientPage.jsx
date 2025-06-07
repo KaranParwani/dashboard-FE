@@ -96,6 +96,7 @@ const AddPatientPage = () => {
       }
     }
   };
+  
 
   return (
     <LocalizationProvider dateAdapter={AdapterDateFns}>
